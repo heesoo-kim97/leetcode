@@ -3,3 +3,5 @@ function divide(int1, int2) {
   const result = int2 / int1;
   return result;
 }
+
+// function where second int is divided by first
