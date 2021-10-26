@@ -13,3 +13,5 @@ const reverse = x => {
 
 // eslint-disable-next-line no-console
 console.log(reverse);
+
+// reversing the number
