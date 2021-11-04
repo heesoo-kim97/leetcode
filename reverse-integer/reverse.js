@@ -15,3 +15,4 @@ const reverse = x => {
 console.log(reverse);
 
 // reversing the number
+// use the parameter length to determine index
