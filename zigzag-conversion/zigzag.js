@@ -23,3 +23,4 @@ const convert = (s, numRows) => {
 console.log(convert);
 
 // adding a test comment
+// zigzag pattern
